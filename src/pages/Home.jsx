@@ -188,7 +188,7 @@ const RingAvatar = () => (
 				<path id="dgCircle" d="M100,100 m-82,0 a82,82 0 1,1 164,0 a82,82 0 1,1 -164,0" />
 			</defs>
 			<text>
-				<textPath href="#dgCircle" startOffset="0">DELEITE ✿ GARDEN ✿ RESTAURANTE</textPath>
+				<textPath href="#dgCircle" startOffset="0">✿DELEITEGARDEN ✿ RESTAURANTE ✿ DELEITA TUS SENTIDOS ✿</textPath>
 			</text>
 		</svg>
 		<div className="dg-avatar-img">
